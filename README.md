@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibishbo
+- 👋 Hi, I’m Mbuyi
 - 👀 I’m interested in Artificial Intelligence and all it's branches and applications
 - 🌱 I’m currently learning Python to detect and predict diseases such as glaucoma
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
